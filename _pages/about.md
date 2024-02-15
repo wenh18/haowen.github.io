@@ -9,13 +9,13 @@ redirect_from:
 
 I'm a second year PhD student from [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/). I am very fortunate to be advised by [Prof. Ya-Qin Zhang](https://air.tsinghua.edu.cn/en/info/1046/1188.htm), [Prof. Yunxin Liu](https://air.tsinghua.edu.cn/en/info/1046/1193.htm), and [Prof. Yuanchun Li](https://air.tsinghua.edu.cn/en/info/1046/1200.htm).
 
-My research interest includes edge computing and AI for systems. Currently, I am interested in building personal assistant powered by edge LLMs. Check out our [position & survey paper](https://github.com/MobileLLM/Personal_LLM_Agents_Survey/). 
+My research interest includes edge computing and AI for systems. Currently, I am interested in building personal assistants powered by edge LLMs. Check out our [position & survey paper](https://github.com/MobileLLM/Personal_LLM_Agents_Survey/). 
 
 
 Education
 ======
 * B.S. in Department of Automation, Tsinghua University, 2018-2022
-* Ph.D in Institute for AI Industry Research (AIR), Tsinghua University, 2027 (expected)
+* Ph.D in Institute for AI Industry Research (AIR), Tsinghua University, 2022-2027 (expected)
 
 Internship
 ======
