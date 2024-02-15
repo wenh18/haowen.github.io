@@ -7,7 +7,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Hao Wen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -28,11 +28,11 @@ author:
   uri              :
 
   # Manuscript repositories
-  arxiv            : # "https://arxiv.org/" # Update with the correct link to your profile
+  # arxiv            : # "https://arxiv.org/" # Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=XHT7O_IAAAAJ&hl=zh-CN"         # Update with the correct link to your profile
-  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  # impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 
   # Social media
   bitbucket        :
@@ -49,7 +49,7 @@ author:
   lastfm           :
   linkedin         :
   kaggle           : # "kaggleusername"
-  mastodon         : "mastodonhandle"
+  # mastodon         : "mastodonhandle"
   medium           : # "add medium profile url here"
   pinterest        :
   soundcloud       :
