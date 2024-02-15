@@ -17,14 +17,14 @@ repository               : "haowen.github.io"
 
 # Site Author
 author:
-  name             : "Hao Wen"
+  name             : "Hao Wen (温皓)"
   avatar           : "profile.png"
   bio              : "Feel free to contact me."
   pronouns         : # example: "she/her"
   # location         : "Location"
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0008-8450-7795"
   employer         :
-  email            :  
+  email            :  wen-h22@mails.tsinghua.edu.cn
   uri              :
 
   # Manuscript repositories
